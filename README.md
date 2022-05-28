@@ -5,6 +5,7 @@ Participantes:
 <ul>
 	<li>Prof Daniel Obara</li>
 	<li>Yellowbelt Tay</li>
+	<li>Victor Nery</li>
 </ul>
   <hr/>
   
