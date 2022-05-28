@@ -6,13 +6,13 @@ Participantes:
 	<li>Prof Daniel Obara</li>
 	<li>Yellowbelt Tay</li>
 </ul>
-
   <hr/>
   
+	<li>Fabrício</li>
 	<li>Eduardo Almeida de Jesus</li>
-	<li>Reygis meira </li>
+	<li>Reygis meira</li>
 	<li>Carla Nomura</li>
-  <li> Larissa</li>
+  <li>Larissa</li>
 	<li>Pedro Arruda</li>
 	<li>Marcus Döttlinger</li>
 	<li>Celso Firmino</li>
