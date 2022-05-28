@@ -5,10 +5,11 @@ Participantes:
 <ul>
 	<li>Prof Daniel Obara</li>
 	<li>Yellowbelt Tay</li>
-	<li>Victor Nery</li>
 </ul>
   <hr/>
   
+	<li>Victor Nery</li>
+	<li> Cristiano Melo</li>
 	<li>Fabrício</li>
 	<li>Eduardo Almeida de Jesus</li>
 	<li>Reygis meira</li>
