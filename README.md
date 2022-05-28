@@ -3,6 +3,11 @@
 Participantes:
 
 <ul>
+	<li>Prof Daniel</li>
+	<li>Yellowbelt Tay
+  <hr/>
+    
+	<li>Marcus Döttlinger</li>
 	<li>Prof Daniel Obara</li>
 	<li>Yellowbelt Tay</li>
 	<li>Rayellison Costa </li>
