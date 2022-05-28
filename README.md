@@ -5,6 +5,7 @@ Participantes:
 <ul>
 	<li>Prof Daniel Obara</li>
 	<li>Yellowbelt Tay</li>
+	<li>Fabiana</li>
 	<li>Lucas Cosendey</li>
 </ul>
   <hr/>
