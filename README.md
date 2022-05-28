@@ -5,8 +5,10 @@ Participantes:
 <ul>
 	<li>Prof Daniel Obara</li>
 	<li>Yellowbelt Tay</li>
+
   <hr/>
     
+	<li>Pedro Arruda</li>
 	<li>Marcus Döttlinger</li>
 	<li>Celso Firmino</li>
 	<li>Rayellison Costa </li>
