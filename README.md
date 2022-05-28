@@ -8,4 +8,5 @@ Participantes:
 	<li>João Paulo<li>
 	<li>Fernando TF</li>
   <li>João Marcelo Dantas</li>
+	<li>Silvan Miller</li>
 </ul>
