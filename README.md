@@ -5,10 +5,10 @@ Participantes:
 <ul>
 	<li>Prof Daniel Obara</li>
 	<li>Yellowbelt Tay</li>
-	<li>Eduardo Fonseca</li>
 </ul>
   <hr/>
   
+	<li>Eduardo Fonseca</li>
 	<li>Victor Nery</li>
 	<li> Cristiano Melo</li>
 	<li>Fabrício</li>
