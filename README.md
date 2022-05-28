@@ -1,3 +1,6 @@
 # animation-example
 
-Projeto teste de animação
+Participantes:
+
+Prof Daniel 
+Yellowbelt Tay
