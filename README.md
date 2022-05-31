@@ -9,6 +9,7 @@ Participantes:
   <hr/>
   <ul>
   
+	<li>Giordano Cassini</li>
 	<li>Daniel Junior</li>
 	<li>Fabiana</li>
 	<li>Lucas Cosendey</li>
