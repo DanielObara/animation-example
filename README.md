@@ -9,7 +9,7 @@ Participantes:
 	<li>Lucas Cosendey</li>
 </ul>
   <hr/>
-  
+  <ul>
 	<li>Eduardo Fonseca</li>
 	<li>Victor Nery</li>
 	<li> Cristiano Melo</li>
