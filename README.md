@@ -29,5 +29,6 @@ Participantes:
 	<li>Fernando TF</li>
   <li>João Marcelo Dantas</li>
 	<li>Silvan Miller</li>
+	<li>France Lima</li>
 
 </ul>
