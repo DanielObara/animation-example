@@ -5,12 +5,13 @@ Participantes:
 <ul>
 	<li>Prof Daniel Obara</li>
 	<li>Yellowbelt Tay</li>
-	<li>Jovane</li>
 </ul>
 
 Alunxs
 
 <ul>
+	<li>Danilo Freitas</li>
+	<li>Jovane</li>
   <li>Tatyanna Mota</li>
 	<li>Andrei</li>
 	<li>Giordano Cassini</li>
