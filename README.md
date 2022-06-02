@@ -5,6 +5,7 @@ Participantes:
 <ul>
 	<li>Prof Daniel Obara</li>
 	<li>Yellowbelt Tay</li>
+	<li>Víctor Franco</li>
 </ul>
 
 Alunxs
