@@ -5,11 +5,15 @@ Participantes:
 <ul>
 	<li>Prof Daniel Obara</li>
 	<li>Yellowbelt Tay</li>
-	<li>Andrei</li>
+  
+	<hr/>
+  
 </ul>
-  <hr/>
+	Alunxs
+
   <ul>
   
+	<li>Andrei</li>
 	<li>Giordano Cassini</li>
 	<li>Daniel Junior</li>
 	<li>Fabiana</li>
