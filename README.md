@@ -6,10 +6,9 @@ Participantes:
 	<li>Prof Daniel Obara</li>
 	<li>Yellowbelt Tay</li>
   
-	<hr/>
-  
 </ul>
-	Alunxs
+
+Alunxs
 
 <ul>
 	<li>Andrei</li>
