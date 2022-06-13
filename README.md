@@ -16,7 +16,7 @@ Alunxs
 	<li>Math Allan</li>
 	<li>Danilo Freitas</li>
 	<li>Jovane</li>
-  	<li>Tatyanna Mota</li>
+  <li>Tatyanna Mota</li>
 	<li>Andrei</li>
 	<li>Giordano Cassini</li>
 	<li>Daniel Junior</li>
@@ -37,8 +37,9 @@ Alunxs
 	<li>Rayellison Costa </li>
 	<li>João Paulo</li>
 	<li>Fernando TF</li>
-  	<li>João Marcelo Dantas</li>
+  <li>João Marcelo Dantas</li>
 	<li>Silvan Miller</li>
 	<li>France Lima</li>
 	<li>Dilermando jefferson</li>
+	<li>Amanda Hammes</li>
 </ul>
